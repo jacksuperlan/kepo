@@ -10,3 +10,4 @@ ImageTTFText ($im, 45, 360, 0, 100, $white, "/usr/share/fonts/zh_CN/TrueType/sim
 
 ImageJPEG ($im); 
 ImageDestroy ($im); 
+YES i m changed
